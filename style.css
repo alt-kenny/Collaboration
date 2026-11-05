@@ -5,8 +5,8 @@ all selector in css {
 }
 
 the body selector in css {
-  background-color: #fff;
-  color: #000;
+  background-color: red;
+  color: #fff;
   font-family: "Poppins", sans-serif;
   min-height: 100vh;
   padding: 20px;
